@@ -3,7 +3,7 @@ package com.example.lab08;
 public class City {
     private String city;
     private String province;
-    //testcomment
+    //test comment2
     public City(String city, String province){
         this.city = city;
         this.province = province;
